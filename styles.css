@@ -1,1 +1,53 @@
 /*  your css code here. If applicable */
+*{
+	padding:0;
+	margin:0;
+	box-sizing:border-box:
+}
+ body {
+      font-family: Arial, sans-serif;
+      background-color: #f8f8f8;
+      margin: 0;
+      padding: 20px;
+      line-height: 1.6;
+    }
+
+    h1 {
+      text-align: center;
+      color: #2c3e50;
+      margin-bottom: 10px;
+    }
+
+    p {
+      max-width: 700px;
+      margin: 0 auto 30px auto;
+      font-size: 16px;
+      color: #555;
+      text-align: center;
+    }
+
+    h2 {
+      color: #34495e;
+      margin-top: 30px;
+      margin-bottom: 10px;
+    }
+
+    ol, ul {
+      max-width: 600px;
+      margin: 0 auto 20px auto;
+      padding-left: 20px;
+    }
+
+    li {
+      margin-bottom: 8px;
+      font-size: 15px;
+      color: #333;
+    }
+
+    strong {
+      color: #2ecc71;
+    }
+
+    em {
+      color: #e74c3c;
+    }
